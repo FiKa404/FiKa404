@@ -5,6 +5,11 @@
 
 <a href="https://www.buymeacoffee.com/absatyaprakash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+<br>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tawfik_m0/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tawfik.walid.1)
+
+
 <!--
 **FiKa404/FiKa404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
